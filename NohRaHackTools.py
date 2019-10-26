@@ -240,7 +240,7 @@ def spider(host):
 	
 def main():
     print "-"*60+"\n"
-    print "                  Dark Fantasy - Hack Tool                    "
+    print "                  NohRa hack-Tools                    "
     print "-"*60+"\n"
     print "1.Port Scanning\n2.DDOS\n3.Banner Grabbing\n4.Web spider(gather all URLs for web hacking)\n5.FTP Password Cracker\n6.Email Scraping\n7.IMDB Rating"
     choice=raw_input("Enter Your Choice: ")
