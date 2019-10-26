@@ -1,0 +1,10 @@
+git clone https://github.com/NohRa0/NohRa.git
+ls
+cd NohRa
+ls
+chmod +x *
+ls
+pip2 install -r requirements.txt
+
+python2 NohRaHackTools.py
++++++++++++++++++++++++++
